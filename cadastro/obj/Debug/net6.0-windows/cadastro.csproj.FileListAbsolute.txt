@@ -1,0 +1,17 @@
+C:\Users\2022102020022\source\repos\cadastro\cadastro\bin\Debug\net6.0-windows\cadastro.exe
+C:\Users\2022102020022\source\repos\cadastro\cadastro\bin\Debug\net6.0-windows\cadastro.deps.json
+C:\Users\2022102020022\source\repos\cadastro\cadastro\bin\Debug\net6.0-windows\cadastro.runtimeconfig.json
+C:\Users\2022102020022\source\repos\cadastro\cadastro\bin\Debug\net6.0-windows\cadastro.dll
+C:\Users\2022102020022\source\repos\cadastro\cadastro\bin\Debug\net6.0-windows\cadastro.pdb
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.csproj.AssemblyReference.cache
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.Form1.resources
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.csproj.GenerateResource.cache
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.AssemblyInfoInputs.cache
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.AssemblyInfo.cs
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.csproj.CoreCompileInputs.cache
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.dll
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\refint\cadastro.dll
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.pdb
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\cadastro.genruntimeconfig.cache
+C:\Users\2022102020022\source\repos\cadastro\cadastro\obj\Debug\net6.0-windows\ref\cadastro.dll
