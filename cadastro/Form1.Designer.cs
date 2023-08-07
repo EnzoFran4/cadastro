@@ -115,10 +115,12 @@
             // 
             // tx_valor
             // 
+            tx_valor.Enabled = false;
             tx_valor.Location = new Point(208, 192);
             tx_valor.Name = "tx_valor";
             tx_valor.Size = new Size(100, 23);
             tx_valor.TabIndex = 8;
+            tx_valor.MaskInputRejected += tx_valor_MaskInputRejected;
             // 
             // label6
             // 

@@ -29,12 +29,18 @@ namespace cadastro
             produto1.Descricao = tx_descricao.Text;
             produto1.Preco = Convert.ToDouble(tx_preco.Text);
             produto1.Lucro = Convert.ToDouble(tx_lucro.Text);
-            produto1.Valor = Convert.ToDouble(tx_valor.Text);
+
+
+            produto1.Valor = produto1.Preco + (produto1.Preco * produto1.Lucro / 100);
+
+            MessageBox.Show(produto1.Codigo + " " + produto1.Descricao + " " + produto1.Preco + " " + produto1.Lucro);
+
+            tx_valor.Text = Convert.ToString(produto1.Valor);
 
             produtos.Add(produto1);
 
 
-           
+
 
 
 
@@ -52,7 +58,9 @@ namespace cadastro
             tx_valor.Clear();
         }
 
+        private void tx_valor_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
 
-
-    } 
+        }
+    }
 }
